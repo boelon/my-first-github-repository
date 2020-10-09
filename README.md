@@ -2,3 +2,5 @@
 This is my first github repo. Let's get started. Go!
 
 This line was typed manually during conflict resolution
+
+New line was added locally
